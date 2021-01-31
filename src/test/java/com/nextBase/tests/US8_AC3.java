@@ -13,6 +13,8 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
+//3. Verify users can select all the task with a check box on the 1st row.
+
 public class US8_AC3 {
     WebDriver driver;
     @BeforeMethod
